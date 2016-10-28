@@ -6,6 +6,7 @@
  * Universitas Brawijaya
  * id.dindanovitasari@gmail.com
  * dindanovitasari.com/labworks
+ * journal.uad.ac.id/index.php/TELKOMNIKA/article/view/2812
  */
 using System;
 using System.IO;
