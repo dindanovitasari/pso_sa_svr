@@ -1,11 +1,9 @@
 ﻿/*
  * PSO_SA_SVR v1.0
  * Dinda Novitasari
- * 115060800111007
  * Informatika/ Ilmu Komputer
  * Universitas Brawijaya
  * id.dindanovitasari@gmail.com
- * dindanovitasari.com/labworks
  * journal.uad.ac.id/index.php/TELKOMNIKA/article/view/2812
  */
 using System;
